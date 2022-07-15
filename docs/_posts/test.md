@@ -1,7 +1,7 @@
 ---
-layout: page<br>
-title: "test markdown"<br>
-permalink: /test/<br>
+layout: page
+title: "test markdown"
+permalink: /test/
 ---
 
 ### Title
