@@ -7,4 +7,4 @@ layout: page
 
 ### Content
 
-<a href="hello.markdown">hello page</a>
+<a href="./hello.markdown">hello page</a>
