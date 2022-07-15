@@ -1,6 +1,8 @@
+---
 layout: page<br>
 title: "test markdown"<br>
 permalink: /test/<br>
+---
 
 ### Title
 
