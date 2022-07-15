@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "test markdown"
-permalink: /test/
+date: 2022-07-14 13:55 -0800
+categories: test markdown
 ---
 
 ### Title
